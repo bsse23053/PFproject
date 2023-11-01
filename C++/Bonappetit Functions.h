@@ -8,5 +8,6 @@
 void customer();
 void displaymenu();
 void displayprice();
+void admin();
 
 #endif //C_BONAPPETIT_FUNCTIONS_H

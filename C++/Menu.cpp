@@ -12,13 +12,13 @@ void menu() {
     if (choice == 0) {
         customer();
     }
-//    else if (choice == 1) {
-//        admin();
-//    }
+  else if (choice == 1) {
+       admin();
+   }
 }
 
 int main() {
-    cout << "Welcome to Bonappetit" << endl;
+    cout << "WELCOME TO BONAPPETIT" << endl;
     menu();
 }
 
