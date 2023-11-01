@@ -55,7 +55,7 @@ void displayprice() {
 void customer() {
     string menu[10];
     int prices;
-    cout << "* MENU *" << endl << "* FLAVOURS *";
+    cout << "* MENU *" << endl << "* FLAVOURS *"<<endl;
     displaymenu();
     cout<<endl<<"-----"<<endl<<endl;
     displayprice();
